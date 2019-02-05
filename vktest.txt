@@ -2,4 +2,4 @@ hello vivek welcome to git.
 my first file edited.
 
 
-This is new branch file.
+now this is master file
